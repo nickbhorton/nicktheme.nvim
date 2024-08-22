@@ -414,7 +414,7 @@ return {
                 bg_m2      = palette.lotusWhite1,
                 bg_m1      = palette.lotusWhite2,
                 bg         = palette.nickBlack,
-                bg_p1      = palette.lotusWhite4,
+                bg_p1      = palette.nickRed,
                 bg_p2      = palette.lotusWhite5,
 
                 nontext    = palette.lotusViolet1,
