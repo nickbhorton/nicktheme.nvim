@@ -127,7 +127,7 @@ local palette = {
     lotusCyan = "#d7e3d8",
 
     nickBlack = "#000000",
-    nickWhite = "#000000",
+    nickWhite = "#ffffff",
     nickRed = "#ff0000",
     nickGreen = "#00ff00",
     nickBlue = "#0000ff",
