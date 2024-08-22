@@ -403,40 +403,40 @@ return {
     nick = function(palette)
         return {
             ui = {
-                fg         = palette.lotusInk1,
-                fg_dim     = palette.lotusInk2,
-                fg_reverse = palette.lotusGray,
+                fg         = palette.nickWhite,
+                fg_dim     = palette.nickWhite,
+                fg_reverse = palette.nickWhite,
 
-                bg_dim     = palette.nickCyan,
-                bg_gutter  = palette.nickPurple,
+                bg_dim     = palette.nickBlack,
+                bg_gutter  = palette.nickBlack,
 
-                bg_m3      = palette.nickWhite,
-                bg_m2      = palette.nickRed,
-                bg_m1      = palette.nickBlue,
+                bg_m3      = palette.nickBlack,
+                bg_m2      = palette.nickBlack,
+                bg_m1      = palette.nickBlack,
                 bg         = palette.nickBlack,
-                bg_p1      = palette.nickGreen,
-                bg_p2      = palette.nickMagenta,
+                bg_p1      = palette.nickBlack,
+                bg_p2      = palette.nickBlack,
 
-                nontext    = palette.lotusViolet1,
-                whitespace = palette.lotusViolet1,
-                special    = palette.lotusViolet2,
+                nontext    = palette.nickBlack,
+                whitespace = palette.nickBlack,
+                special    = palette.nickBlack,
 
-                bg_visual  = palette.lotusViolet3,
-                bg_search  = palette.lotusBlue2,
+                bg_visual  = palette.nickBlack,
+                bg_search  = palette.nickBlack,
 
                 pmenu      = {
-                    fg       = palette.lotusInk2,
+                    fg       = palette.nickWhite,
                     fg_sel   = "none", -- This is important to make highlights pass-through
-                    bg       = palette.lotusBlue1,
-                    bg_sel   = palette.lotusBlue3,
-                    bg_sbar  = palette.lotusBlue1,
-                    bg_thumb = palette.lotusBlue2,
+                    bg       = palette.nickBlack,
+                    bg_sel   = palette.nickBlack,
+                    bg_sbar  = palette.nickBlack,
+                    bg_thumb = palette.nickBlack,
                 },
                 float      = {
-                    fg        = palette.lotusInk2,
-                    bg        = palette.lotusWhite0,
-                    fg_border = palette.lotusGray2,
-                    bg_border = palette.lotusWhite0,
+                    fg        = palette.nickWhite,
+                    bg        = palette.nickBlack,
+                    fg_border = palette.nickWhite,
+                    bg_border = palette.nickBlack,
                 },
             },
             syn = {
