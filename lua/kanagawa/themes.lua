@@ -407,15 +407,15 @@ return {
                 fg_dim     = palette.lotusInk2,
                 fg_reverse = palette.lotusGray,
 
-                bg_dim     = palette.lotusWhite1,
-                bg_gutter  = palette.lotusWhite4,
+                bg_dim     = palette.nickCyan,
+                bg_gutter  = palette.nickPurple,
 
-                bg_m3      = palette.lotusWhite0,
-                bg_m2      = palette.lotusWhite1,
-                bg_m1      = palette.lotusWhite2,
+                bg_m3      = palette.nickWhite,
+                bg_m2      = palette.nickRed,
+                bg_m1      = palette.nickBlue,
                 bg         = palette.nickBlack,
-                bg_p1      = palette.nickRed,
-                bg_p2      = palette.lotusWhite5,
+                bg_p1      = palette.nickGreen,
+                bg_p2      = palette.nickMagenta,
 
                 nontext    = palette.lotusViolet1,
                 whitespace = palette.lotusViolet1,
